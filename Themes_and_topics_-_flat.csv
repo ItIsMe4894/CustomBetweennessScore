@@ -1,0 +1,33 @@
+﻿Theme;Category;Category - shorted named;Participants per category;CountForClustering;Participants per theme;Count
+Awareness;Source of awareness.Learning & training;SoA.Learning-training;p2, p4, p5, p7, p8;5;p1, p2, p3, p4, p5, p6, p7, p8, p9;9
+Awareness;Source of awareness.Experience;SoA.Experience;p1, p3, p4, p5, p6, p9;6;;
+Detection;Technical;Technical;p5, p6, p8;3;p1, p2, p3, p4, p5, p6, p7, p8;8
+Detection;Expectations mismatch;ExpectationsMismatch;p1, p2, p3, p4, p5, p6, p7;7;;
+Detection;Contextual;Contextual;p4, p5, p6;3;;
+Action;Delete email;DeleteEemail;p1;1;p1, p4, p5, p6, p7, p8, p9;7
+Action;Link interaction;LinkInteraction;p1, p5, p7, p8, p9;5;;
+Action;Reporting;Reporting;p1, p4, p6;3;;
+Reaction;Emotional response.Negative;ER.Negative;p2, p6, p7;3;p1, p2, p3, p4, p5, p6, p7, p8, p9;9
+Reaction;Emotional response.Neutral;ER.Neutral;p1, p6;2;;
+Reaction;Emotional response.Positive;ER.Positive;p3, p5, p6, p7;4;;
+Reaction;Mixed response;MixedResponse;p2, p6, p7, p9;4;;
+Reaction;Rational response.Reasons to believe;RR.ReasonsToBelieve;p8;1;;
+Reaction;Rational response.Reasons to not believe;RR.ReasonsToNotBelieve;p3, p4, p9;3;;
+Reaction;Rational response.lack of consequences;RR.lackOfConsequences;p8;1;;
+Reaction;Rational response.Need for confirmation;RR.NeedForConfirmation;p2, p3, p4, p9;4;;
+Reaction;Rational response.Certain of phishing;RR.CertainOfPhishing;p1, p2, p5, p6, p9;5;;
+Reaction;Rational response.Reasons to action;RR.ReasonsToAction;p6;1;;
+Reaction;Rational response.Other;RR.Other;p1, p4, p5;3;;
+Reporting (behavior);Reasons for reporting (to email provider);ReasonsForReporting-(toEmailProvider);p1, p6, p7;3;p1, p2, p3, p4, p5, p6, p7, p8, p9;9
+Reporting (behavior);Reasons for not reporting;ReasonsForNotReporting;p2, p3, p5, p8;4;;
+Reporting (behavior);Hypothetical reporting.Report to colleagues;HR.ReportToColleagues;p1, p4;2;;
+Reporting (behavior);Hypothetical reporting.won't report;HR.wontReport;p2, p3, p6;3;;
+Reporting (behavior);Hypothetical reporting.Other;HR.Other;p7, p8;2;;
+Reporting (behavior);Reporting expectations.Presence of expectation;RE.PresenceOfExpectation;p4, p5, p6, p8, p9;5;;
+Reporting (behavior);Reporting expectations.Lack of expectation;RE.LackOfExpectation;p1, p2, p3;3;;
+Tailoring effects;Effect on behavior.No reporting for generic;EoB.NoReportingForGeneric;p4, p5, p6, p7, p8, p9;6;p1, p2, p3, p4, p5, p6, p7, p8, p9;9
+Tailoring effects;Effect on behavior.More interaction with tailored;EoB.MoreInteractionWithTailored;p2, p5;2;;
+Tailoring effects;Effect on behavior.Always reporting;EoB.AlwaysReporting;p3;1;;
+Tailoring effects;Response to being the only target.Emotional response;RtBtOT.EmotionalResponse;p3, p4;2;;
+Tailoring effects;Response to being the only target.Rational response;RtBtOT.RationalResponse;p1, p3, p4, p5, p7, p8, p9;7;;
+Tailoring effects;Response to being the only target.Mixed;RtBtOT.Mixed;p3;1;;
